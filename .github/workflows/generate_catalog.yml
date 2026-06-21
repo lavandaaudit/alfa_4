@@ -1,0 +1,32 @@
+name: Generate catalog.xlsx
+
+on:
+  push:
+    paths:
+      - 'src/data/products.json'
+      - 'src/data/kits.json'
+      - 'create_catalog.py'
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: pip install pandas openpyxl
+      - name: Generate catalog.xlsx
+        run: python create_catalog.py
+      - name: Commit generated file
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: 'chore: regenerate catalog.xlsx'
+          add: 'catalog.xlsx'
