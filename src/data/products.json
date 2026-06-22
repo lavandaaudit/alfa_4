@@ -419,10 +419,10 @@
   },
   {
     "id": "flyer-a5",
-    "name": "A5 Flyers (Full Color)",
+    "name": "A4-sized presentation folder ",
     "category": "Printing",
     "subcategory": "Leaflets",
-    "description": "A5 double-sided flyers on 170g/m² silk coated stock. 4+4 full-color offset print. Fast turnaround for events, campaigns, and product launches.",
+    "description": "Material: Premium 350 gsm paperboard (heavyweight cardstock) providing durability and a rigid, high-quality feel.Finish: Smooth laminated coating for extra protection, durability, and a sleek surface appearance.Construction: Die-cut (die-stamped) layout with precise folding lines and an internal pocket to hold documents securely.",
     "basePrice": 0.12,
     "tiers": [
       {
@@ -443,10 +443,7 @@
       }
     ],
     "media": {
-      "main": "https://images.unsplash.com/photo-1562564055-71e051d33c19?auto=format&fit=crop&q=80&w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&q=80&w=600"
-      ]
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_17-08-47.jpg?w=1280&h=1012"
     },
     "colorTags": [
       "vibrant-campaign",
