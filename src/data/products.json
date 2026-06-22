@@ -621,5 +621,30 @@
     "minOrderQty": 25,
     "productionDays": 14,
     "popular": null
+  },
+  {
+    "id": "prod-1782138759823",
+    "name": " Crossbody Bag",
+    "category": "Textile",
+    "subcategory": "Mugs",
+    "description": "Unisex Waist Bag / Fanny Pack / Crossbody Bag\nMaterial: High-quality, durable, and water-repellent textileFeatures: Spacious main zippered compartment, sturdy adjustable black strap, secure plastic buckle closure.Best For: Casual wear, travel, outdoor activities, sports, and corporate merchandise branding.",
+    "basePrice": 15,
+    "minOrderQty": 10,
+    "productionDays": 7,
+    "tiers": [
+      {
+        "qty": 50,
+        "pricePerUnit": 15
+      }
+    ],
+    "colorTags": [
+      "red",
+      "white",
+      "green",
+      "black"
+    ],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_17-31-41.jpg?w=1280&h=838"
+    }
   }
 ]
