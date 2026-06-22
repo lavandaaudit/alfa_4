@@ -48,7 +48,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 7,
-    "popular": 1.0
+    "popular": 1
   },
   {
     "id": "hoodie-premium",
@@ -56,19 +56,19 @@
     "category": "Apparel",
     "subcategory": "Hoodies",
     "description": "320g/m² heavyweight fleece hoodie. Kangaroo pocket, ribbed cuffs. Perfect for corporate drops, event crews, and welcome kits. Unisex sizing S–3XL.",
-    "basePrice": 32.0,
+    "basePrice": 32,
     "tiers": [
       {
         "qty": 20,
-        "pricePerUnit": 38.0
+        "pricePerUnit": 38
       },
       {
         "qty": 50,
-        "pricePerUnit": 34.0
+        "pricePerUnit": 34
       },
       {
         "qty": 100,
-        "pricePerUnit": 32.0
+        "pricePerUnit": 32
       },
       {
         "qty": 300,
@@ -94,7 +94,7 @@
     ],
     "minOrderQty": 20,
     "productionDays": 10,
-    "popular": 1.0
+    "popular": 1
   },
   {
     "id": "polo-corporate",
@@ -102,15 +102,15 @@
     "category": "Apparel",
     "subcategory": "Polo",
     "description": "Piqué cotton-blend polo with 3-button placket. Tailored fit available. Ideal for corporate uniforms and conference staff.",
-    "basePrice": 18.0,
+    "basePrice": 18,
     "tiers": [
       {
         "qty": 50,
-        "pricePerUnit": 22.0
+        "pricePerUnit": 22
       },
       {
         "qty": 100,
-        "pricePerUnit": 18.0
+        "pricePerUnit": 18
       },
       {
         "qty": 200,
@@ -138,7 +138,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 7,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "tote-bag-organic",
@@ -183,7 +183,7 @@
     ],
     "minOrderQty": 100,
     "productionDays": 5,
-    "popular": 1.0
+    "popular": 1
   },
   {
     "id": "backpack-corporate",
@@ -191,19 +191,19 @@
     "category": "Bags",
     "subcategory": "Backpacks",
     "description": "25L water-resistant polyester backpack with padded laptop sleeve. Subtle branded patch or embroidered logo. Premium conference and welcome kit item.",
-    "basePrice": 28.0,
+    "basePrice": 28,
     "tiers": [
       {
         "qty": 50,
-        "pricePerUnit": 36.0
+        "pricePerUnit": 36
       },
       {
         "qty": 100,
-        "pricePerUnit": 28.0
+        "pricePerUnit": 28
       },
       {
         "qty": 200,
-        "pricePerUnit": 24.0
+        "pricePerUnit": 24
       }
     ],
     "media": {
@@ -222,7 +222,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 12,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "notebook-hardcover",
@@ -269,7 +269,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 7,
-    "popular": 1.0
+    "popular": 1
   },
   {
     "id": "pen-metal",
@@ -312,7 +312,7 @@
     ],
     "minOrderQty": 100,
     "productionDays": 5,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "mug-ceramic",
@@ -355,7 +355,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 5,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "bottle-steel",
@@ -363,19 +363,19 @@
     "category": "Drinkware",
     "subcategory": "Bottles",
     "description": "500ml double-wall stainless steel bottle, keeps drinks cold 24h/hot 12h. Laser-engraved logo, powder-coated finish. Premium eco-friendly promo item.",
-    "basePrice": 14.0,
+    "basePrice": 14,
     "tiers": [
       {
         "qty": 50,
-        "pricePerUnit": 18.0
+        "pricePerUnit": 18
       },
       {
         "qty": 100,
-        "pricePerUnit": 14.0
+        "pricePerUnit": 14
       },
       {
         "qty": 200,
-        "pricePerUnit": 12.0
+        "pricePerUnit": 12
       },
       {
         "qty": 500,
@@ -399,7 +399,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 7,
-    "popular": 1.0
+    "popular": 1
   },
   {
     "id": "badge-corporate",
@@ -415,7 +415,7 @@
       },
       {
         "qty": 500,
-        "pricePerUnit": 2.0
+        "pricePerUnit": 2
       },
       {
         "qty": 1000,
@@ -441,7 +441,7 @@
     ],
     "minOrderQty": 100,
     "productionDays": 3,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "lanyard-custom",
@@ -453,7 +453,7 @@
     "tiers": [
       {
         "qty": 100,
-        "pricePerUnit": 2.0
+        "pricePerUnit": 2
       },
       {
         "qty": 500,
@@ -483,7 +483,7 @@
     ],
     "minOrderQty": 100,
     "productionDays": 5,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "flyer-a5",
@@ -526,7 +526,7 @@
     ],
     "minOrderQty": 1000,
     "productionDays": 3,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "cap-snapback",
@@ -542,7 +542,7 @@
       },
       {
         "qty": 100,
-        "pricePerUnit": 11.0
+        "pricePerUnit": 11
       },
       {
         "qty": 200,
@@ -570,7 +570,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 10,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "packaging-box",
@@ -578,19 +578,19 @@
     "category": "Packaging",
     "subcategory": "Gift Boxes",
     "description": "Premium rigid gift box with magnetic closure. Inside tissue paper, ribbon pull. Full-color offset or UV print. Elevates any welcome or press kit to luxury tier.",
-    "basePrice": 8.0,
+    "basePrice": 8,
     "tiers": [
       {
         "qty": 50,
-        "pricePerUnit": 14.0
+        "pricePerUnit": 14
       },
       {
         "qty": 100,
-        "pricePerUnit": 10.0
+        "pricePerUnit": 10
       },
       {
         "qty": 200,
-        "pricePerUnit": 8.0
+        "pricePerUnit": 8
       },
       {
         "qty": 500,
@@ -616,7 +616,7 @@
     ],
     "minOrderQty": 50,
     "productionDays": 14,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "sticker-pack",
@@ -658,7 +658,7 @@
     ],
     "minOrderQty": 100,
     "productionDays": 3,
-    "popular": NaN
+    "popular": null
   },
   {
     "id": "powerbank-branded",
@@ -666,23 +666,23 @@
     "category": "Event",
     "subcategory": "Tech Accessories",
     "description": "10,000mAh slim power bank, USB-A + USB-C output. Laser-engraved or pad-printed logo. Premium conference and VIP welcome kit must-have.",
-    "basePrice": 18.0,
+    "basePrice": 18,
     "tiers": [
       {
         "qty": 25,
-        "pricePerUnit": 26.0
+        "pricePerUnit": 26
       },
       {
         "qty": 50,
-        "pricePerUnit": 22.0
+        "pricePerUnit": 22
       },
       {
         "qty": 100,
-        "pricePerUnit": 18.0
+        "pricePerUnit": 18
       },
       {
         "qty": 250,
-        "pricePerUnit": 15.0
+        "pricePerUnit": 15
       }
     ],
     "media": {
@@ -701,6 +701,28 @@
     ],
     "minOrderQty": 25,
     "productionDays": 14,
-    "popular": NaN
+    "popular": null
+  },
+  {
+    "id": "prod-1782127641427",
+    "name": "t-shirt",
+    "category": "textile",
+    "subcategory": "corporate",
+    "description": "corporate",
+    "basePrice": 15,
+    "minOrderQty": 10,
+    "productionDays": 7,
+    "tiers": [
+      {
+        "qty": 50,
+        "pricePerUnit": 10
+      }
+    ],
+    "colorTags": [
+      "wtite"
+    ],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/1782063236.png?w=1664&h=928"
+    }
   }
 ]
