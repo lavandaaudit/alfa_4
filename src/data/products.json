@@ -74,11 +74,7 @@
       }
     ],
     "media": {
-      "main": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1578768079052-aa76e52ff574?auto=format&fit=crop&q=80&w=600",
-        "https://images.unsplash.com/photo-1611329532992-0d4c1b35ad47?auto=format&fit=crop&q=80&w=600"
-      ]
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_16-32-10.jpg?w=883&h=1280"
     },
     "colorTags": [
       "luxury-black",
