@@ -683,5 +683,25 @@
     "media": {
       "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-05-19_10-54-25.jpg?w=1280&h=786"
     }
+  },
+  {
+    "id": "prod-1782153344899",
+    "name": "Premium A4 Paper  Bag ",
+    "category": "Printing",
+    "subcategory": "corporate",
+    "description": "Designed perfectly to fit A4 documents, corporate gifts, literature, and premium merchandise Canva Design Wiki size guide. It is the ideal packaging solution for exhibitions, retail stores, and corporate events. Make a lasting impression with packaging that speaks volumes about your brand's attention to detail.",
+    "basePrice": 2,
+    "minOrderQty": 100,
+    "productionDays": 2,
+    "tiers": [
+      {
+        "qty": 100,
+        "pricePerUnit": 2
+      }
+    ],
+    "colorTags": [],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_20-08-29.jpg"
+    }
   }
 ]
