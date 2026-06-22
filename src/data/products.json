@@ -295,11 +295,7 @@
       }
     ],
     "media": {
-      "main": "https://images.unsplash.com/photo-1514228742587-6b1558fcc3d1?auto=format&fit=crop&q=80&w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1556909114-44e3e70034e2?auto=format&fit=crop&q=80&w=600",
-        "https://images.unsplash.com/photo-1572119865084-43c285814d63?auto=format&fit=crop&q=80&w=600"
-      ]
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-16_14-50-02.jpg?w=1240&h=1280"
     },
     "colorTags": [
       "all"
