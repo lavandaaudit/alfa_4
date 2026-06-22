@@ -663,5 +663,25 @@
     "media": {
       "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2025-09-02_12-12-16.jpg?w=1059&h=1052"
     }
+  },
+  {
+    "id": "prod-1782139394508",
+    "name": "Premium Branded Padded Vest",
+    "category": "Textile",
+    "subcategory": "corporate",
+    "description": "Stay warm and professional on the job with this premium insulated puffer vest. Designed for ultimate comfort and durability, it features a sleek black quilted design with a full-length front zipper and a high stand-up collar to protect against the wind. Perfect for workwear or casual outdoor activities, this vest showcases clean, high-quality embroidery and custom branding—including the \"CASE IH\" and \"CHIKULAY\" logos. It is the perfect blend of rugged functionality and professional style for any workspace.",
+    "basePrice": 30,
+    "minOrderQty": 10,
+    "productionDays": 7,
+    "tiers": [
+      {
+        "qty": 30,
+        "pricePerUnit": 10
+      }
+    ],
+    "colorTags": [],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-05-19_10-54-25.jpg?w=1280&h=786"
+    }
   }
 ]
