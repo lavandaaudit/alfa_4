@@ -646,5 +646,25 @@
     "media": {
       "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_17-31-41.jpg?w=1280&h=838"
     }
+  },
+  {
+    "id": "prod-1782139011040",
+    "name": "box ",
+    "category": "Printing",
+    "subcategory": "",
+    "description": "",
+    "basePrice": 1,
+    "minOrderQty": 2000,
+    "productionDays": 10,
+    "tiers": [
+      {
+        "qty": 2000,
+        "pricePerUnit": 1
+      }
+    ],
+    "colorTags": [],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2025-09-02_12-12-16.jpg?w=1059&h=1052"
+    }
   }
 ]
