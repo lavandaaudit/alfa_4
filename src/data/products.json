@@ -651,27 +651,5 @@
     "minOrderQty": 25,
     "productionDays": 14,
     "popular": null
-  },
-  {
-    "id": "prod-1782127641427",
-    "name": "t-shirt",
-    "category": "textile",
-    "subcategory": "corporate",
-    "description": "corporate",
-    "basePrice": 15,
-    "minOrderQty": 10,
-    "productionDays": 7,
-    "tiers": [
-      {
-        "qty": 50,
-        "pricePerUnit": 10
-      }
-    ],
-    "colorTags": [
-      "wtite"
-    ],
-    "media": {
-      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/1782063236.png?w=1664&h=928"
-    }
   }
 ]
