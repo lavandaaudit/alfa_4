@@ -423,23 +423,19 @@
     "category": "Printing",
     "subcategory": "Leaflets",
     "description": "Material: Premium 350 gsm paperboard (heavyweight cardstock) providing durability and a rigid, high-quality feel.Finish: Smooth laminated coating for extra protection, durability, and a sleek surface appearance.Construction: Die-cut (die-stamped) layout with precise folding lines and an internal pocket to hold documents securely.",
-    "basePrice": 0.12,
+    "basePrice": 0.5,
     "tiers": [
       {
         "qty": 1000,
-        "pricePerUnit": 0.25
+        "pricePerUnit": 0.32
       },
       {
         "qty": 5000,
-        "pricePerUnit": 0.16
+        "pricePerUnit": 0.25
       },
       {
         "qty": 10000,
-        "pricePerUnit": 0.12
-      },
-      {
-        "qty": 50000,
-        "pricePerUnit": 0.07
+        "pricePerUnit": 0.21
       }
     ],
     "media": {
