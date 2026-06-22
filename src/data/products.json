@@ -404,10 +404,7 @@
       }
     ],
     "media": {
-      "main": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?auto=format&fit=crop&q=80&w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=600"
-      ]
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2025-06-17_12-05-33.jpg?w=1216&h=735"
     },
     "colorTags": [
       "all"
