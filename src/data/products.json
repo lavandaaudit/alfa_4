@@ -703,5 +703,25 @@
     "media": {
       "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_20-08-29.jpg"
     }
+  },
+  {
+    "id": "prod-1782153668043",
+    "name": " Mobile Roll-Up Banner Stand",
+    "category": "POS",
+    "subcategory": "corporate",
+    "description": "Stand out at any event, exhibition, or presentation with our premium Roll-Up banner stand. Engineered for maximum visibility and effortless setup, this retractable banner combines a sleek, lightweight aluminum base with a high-definition, curl-resistant graphic print. It is the perfect professional tool to showcase your corporate identity, promotional campaigns, or institutional branding.",
+    "basePrice": 45,
+    "minOrderQty": 1,
+    "productionDays": 2,
+    "tiers": [
+      {
+        "qty": 1,
+        "pricePerUnit": 45
+      }
+    ],
+    "colorTags": [],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_21-39-42.jpg"
+    }
   }
 ]
