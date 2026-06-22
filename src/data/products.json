@@ -683,25 +683,5 @@
     "media": {
       "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-05-19_10-54-25.jpg?w=1280&h=786"
     }
-  },
-  {
-    "id": "prod-1782139893128",
-    "name": "High-Visibility Safety Vest with Corporate Branding",
-    "category": "textile",
-    "subcategory": "corporate",
-    "description": "Ensure your team's safety and elevate your brand visibility with our premium reflective safety vests. Engineered for high performance in emergency, construction, and volunteer operations, these vests combine reliable protection with professional customization.",
-    "basePrice": 8,
-    "minOrderQty": 50,
-    "productionDays": 7,
-    "tiers": [
-      {
-        "qty": 10,
-        "pricePerUnit": 8
-      }
-    ],
-    "colorTags": [],
-    "media": {
-      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_17-57-25.jpg?w=1280&h=1083"
-    }
   }
 ]
