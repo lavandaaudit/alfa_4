@@ -785,209 +785,23 @@
 lucide.createIcons();
 
 // ── Products Data ──
-const PRODUCTS = [
-    {
-        "id": "tshirt-classic",
-        "name": "Classic T-Shirt",
-        "cat": "Apparel",
-        "price": 12.5,
-        "colors": [
-            "vibrant-campaign",
-            "luxury-black",
-            "corporate-blue",
-            "green-eco",
-            "neutral-beige"
-        ],
-        "img": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&q=80&w=800",
-        "lead": 7
-    },
-    {
-        "id": "hoodie-premium",
-        "name": "Premium Hoodie",
-        "cat": "Apparel",
-        "price": 32.0,
-        "colors": [
-            "luxury-black",
-            "corporate-blue",
-            "neutral-beige"
-        ],
-        "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800",
-        "lead": 10
-    },
-    {
-        "id": "polo-corporate",
-        "name": "Corporate Polo",
-        "cat": "Apparel",
-        "price": 18.0,
-        "colors": [
-            "corporate-blue",
-            "luxury-black",
-            "neutral-beige"
-        ],
-        "img": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&q=80&w=800",
-        "lead": 7
-    },
-    {
-        "id": "tote-bag-organic",
-        "name": "Organic Tote Bag",
-        "cat": "Bags",
-        "price": 4.2,
-        "colors": [
-            "green-eco",
-            "neutral-beige",
-            "vibrant-campaign"
-        ],
-        "img": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=800",
-        "lead": 5
-    },
-    {
-        "id": "backpack-corporate",
-        "name": "Corporate Backpack",
-        "cat": "Bags",
-        "price": 28.0,
-        "colors": [
-            "corporate-blue",
-            "luxury-black"
-        ],
-        "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=800",
-        "lead": 12
-    },
-    {
-        "id": "notebook-hardcover",
-        "name": "Hardcover Notebook A5",
-        "cat": "Notebooks & Stationery",
-        "price": 6.5,
-        "colors": [
-            "neutral-beige",
-            "luxury-black",
-            "corporate-blue",
-            "green-eco"
-        ],
-        "img": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&q=80&w=800",
-        "lead": 7
-    },
-    {
-        "id": "pen-metal",
-        "name": "Metal Ballpoint Pen",
-        "cat": "Notebooks & Stationery",
-        "price": 1.25,
-        "colors": [
-            "luxury-black",
-            "corporate-blue",
-            "neutral-beige"
-        ],
-        "img": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?auto=format&fit=crop&q=80&w=800",
-        "lead": 5
-    },
-    {
-        "id": "mug-ceramic",
-        "name": "Ceramic Mug 330ml",
-        "cat": "Drinkware",
-        "price": 4.5,
-        "colors": [
-            "all"
-        ],
-        "img": "https://images.unsplash.com/photo-1514228742587-6b1558fcc3d1?auto=format&fit=crop&q=80&w=800",
-        "lead": 5
-    },
-    {
-        "id": "bottle-steel",
-        "name": "Insulated Steel Bottle",
-        "cat": "Drinkware",
-        "price": 14.0,
-        "colors": [
-            "green-eco",
-            "luxury-black",
-            "corporate-blue"
-        ],
-        "img": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&q=80&w=800",
-        "lead": 7
-    },
-    {
-        "id": "badge-corporate",
-        "name": "Corporate Badges",
-        "cat": "Event",
-        "price": 1.8,
-        "colors": [
-            "all"
-        ],
-        "img": "https://images.unsplash.com/photo-1598914207931-2856f4bc18ca?auto=format&fit=crop&q=80&w=800",
-        "lead": 3
-    },
-    {
-        "id": "lanyard-custom",
-        "name": "Custom Lanyards",
-        "cat": "Event",
-        "price": 1.2,
-        "colors": [
-            "all"
-        ],
-        "img": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?auto=format&fit=crop&q=80&w=800",
-        "lead": 5
-    },
-    {
-        "id": "flyer-a5",
-        "name": "A5 Flyers (Full Color)",
-        "cat": "Printing",
-        "price": 0.12,
-        "colors": [
-            "vibrant-campaign",
-            "all"
-        ],
-        "img": "https://images.unsplash.com/photo-1562564055-71e051d33c19?auto=format&fit=crop&q=80&w=800",
-        "lead": 3
-    },
-    {
-        "id": "cap-snapback",
-        "name": "Branded Snapback Cap",
-        "cat": "Apparel",
-        "price": 9.8,
-        "colors": [
-            "vibrant-campaign",
-            "luxury-black",
-            "neutral-beige"
-        ],
-        "img": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&q=80&w=800",
-        "lead": 10
-    },
-    {
-        "id": "packaging-box",
-        "name": "Custom Gift Box",
-        "cat": "Packaging",
-        "price": 8.0,
-        "colors": [
-            "luxury-black",
-            "neutral-beige",
-            "green-eco"
-        ],
-        "img": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?auto=format&fit=crop&q=80&w=800",
-        "lead": 14
-    },
-    {
-        "id": "sticker-pack",
-        "name": "Die-Cut Sticker Pack",
-        "cat": "Printing",
-        "price": 0.35,
-        "colors": [
-            "vibrant-campaign",
-            "all"
-        ],
-        "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=800",
-        "lead": 3
-    },
-    {
-        "id": "powerbank-branded",
-        "name": "Branded Power Bank 10000mAh",
-        "cat": "Event",
-        "price": 18.0,
-        "colors": [
-            "corporate-blue",
-            "luxury-black"
-        ],
-        "img": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&q=80&w=800",
-        "lead": 14
-    }
-];
+let PRODUCTS = [];
+
+// Fetch products from JSON
+fetch('src/data/products.json')
+    .then(res => res.json())
+    .then(data => {
+        PRODUCTS = data.map(p => ({
+            id: p.id,
+            name: p.name,
+            cat: p.category || p.cat || 'Apparel',
+            price: p.basePrice || p.price || 0,
+            colors: p.colorTags || p.colors || [],
+            img: (p.media && p.media.main) ? p.media.main : (p.img || ''),
+            lead: p.productionDays || p.lead || 7
+        }));
+    })
+    .catch(err => console.error('Error loading products.json:', err));
 
 const KITS = [
     {
