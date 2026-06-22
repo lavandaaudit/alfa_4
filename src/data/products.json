@@ -5,7 +5,7 @@
     "category": "Apparel",
     "subcategory": "T-Shirts",
     "description": "Premium 180g/m² cotton unisex tee. Available in 30+ colors. Your logo printed with precision via screen print or DTG. The cornerstone of any branded merch kit.",
-    "basePrice": 12.5,
+    "basePrice": 15,
     "tiers": [
       {
         "qty": 50,
@@ -22,16 +22,14 @@
       {
         "qty": 500,
         "pricePerUnit": 7.8
+      },
+      {
+        "qty": 10,
+        "pricePerUnit": 15
       }
     ],
     "media": {
-      "main": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&q=80&w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=600",
-        "https://images.unsplash.com/photo-1503342250614-ca440b8ec078?auto=format&fit=crop&q=80&w=600",
-        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=600"
-      ],
-      "mockup": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&q=80&w=600"
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/1782063236.png?w=1664&h=928"
     },
     "colorTags": [
       "vibrant-campaign",
@@ -46,8 +44,8 @@
       "Embroidery",
       "Heat Transfer"
     ],
-    "minOrderQty": 50,
-    "productionDays": 7,
+    "minOrderQty": 10,
+    "productionDays": 5,
     "popular": 1
   },
   {
