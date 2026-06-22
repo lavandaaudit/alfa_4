@@ -376,10 +376,7 @@
       }
     ],
     "media": {
-      "main": "https://images.unsplash.com/photo-1598914207931-2856f4bc18ca?auto=format&fit=crop&q=80&w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=600"
-      ]
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/image%20(5).jpg?w=1024&h=1008"
     },
     "colorTags": [
       "all"
