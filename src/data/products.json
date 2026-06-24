@@ -719,5 +719,25 @@
     "media": {
       "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-22_21-39-42.jpg"
     }
+  },
+  {
+    "id": "prod-1782294886546",
+    "name": "Acrylic Table Tent Card Holder",
+    "category": "POS",
+    "subcategory": "",
+    "description": "Premium transparent acrylic table sign holder, designed for professional and elegant presentation. This sturdy tent-style stand is perfect for displaying menus, price lists, name cards, table numbers, promotional information, or any small signage on restaurant tables, conference rooms, reception desks, hotels, and retail counters.",
+    "basePrice": 3,
+    "minOrderQty": 50,
+    "productionDays": 7,
+    "tiers": [
+      {
+        "qty": 50,
+        "pricePerUnit": 3
+      }
+    ],
+    "colorTags": [],
+    "media": {
+      "main": "https://6a2e9676d2c53535166b442c.imgix.net/alfa/photo_2026-06-24_12-44-41.jpg"
+    }
   }
 ]
